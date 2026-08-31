@@ -59,12 +59,12 @@ interests: ["data science", "math & physics modeling", "LaTeX tooling", "desktop
 </tr>
 <tr>
   <td width="50%">
-    <h3 align="center">🔭 equaview.nvim</h3>
-    <p align="center">Neovim plugin that live-previews LaTeX equations in a floating window, powered by the Kitty Graphics Protocol.</p>
+    <h3 align="center">💰 Gestion</h3>
+    <p align="center"><a href="https://github.com/robpidev/gestion">Personal finance manager</a> — SvelteKit 5 + Rust/Actix-web + SurrealDB monorepo with JWT auth and a layered backend architecture.</p>
   </td>
   <td width="50%">
-    <h3 align="center">🎬 Manim panels</h3>
-    <p align="center">Modular <code>panels.py</code> layout system for Manim — auto-orientation, asymmetric margins, animated transitions.</p>
+    <h3 align="center">🎬 math-animations</h3>
+    <p align="center"><a href="https://github.com/robpidev/math-animations">Manim animations</a> for math, physics & neural networks — vectors, logic, probability, calculus — built on a custom modular <code>panels.py</code> layout system (auto-orientation, asymmetric margins, animated transitions).</p>
   </td>
 </tr>
 </table>
