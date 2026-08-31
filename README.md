@@ -27,10 +27,9 @@
 
 | Project | Description |
 |---|---|
-| **[SIGA](https://github.com/robpidev)** | School management system — Rust/Actix-web + SurrealDB, layered architecture (entities/repository/services/drivers), grading schema for Peruvian secondary education |
+| **[SIGA](https://github.com/robpidev/siga)** | School management system — Rust/Actix-web + SurrealDB, layered architecture (entities/repository/services/drivers), grading schema for Peruvian secondary education |
 | **Ely** | Worker attendance system — same clean-architecture philosophy (repository traits, infra-layer DB adapters) as SIGA |
 | **frektal** | SvelteKit 5 + SurrealDB platform for structured math/physics educational content |
-| **equaview.nvim** | Neovim plugin that previews LaTeX equations live in a floating window, using the Kitty Graphics Protocol |
 | **Manim panels** | Modular `panels.py` layout system for Manim — auto-orientation, asymmetric margins, animated transitions |
 | **[bird_ia](https://github.com/robpidev/bird_ia)** | Learning neural networks from scratch |
 
