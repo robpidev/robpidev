@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rober Torres 👋</h1>
 
-<h3 align="center">Physics Graduate · Software Developer · Chemistry Teacher</h3>
+<h3 align="center">Physics Graduate · Software Developer · Math and Physics Teacher</h3>
 
 <p align="center">
   Building school-management software in Rust while teaching chemistry — and modeling everything else I can along the way.
